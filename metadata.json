@@ -1,0 +1,5 @@
+{
+  "name": "凤凰贵金属工作台 (Phoenix Workbench)",
+  "description": "基于 ICBC Standard Bank Phoenix 手册设计的专业贵金属交易与管理工作台，包含账户概览、转账清算、库存管理及远期预测等核心功能。",
+  "requestFramePermissions": []
+}
